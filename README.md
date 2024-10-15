@@ -2,7 +2,7 @@
 
 This repository contains the practical assignments for the Artificial Intelligence and Deep Learning course. Each assignment demonstrates key AI and deep learning concepts through coding exercises and implementations of various algorithms and models.
 
-<h1>Folder Structure</h1>
+<h2>Folder Structure</h2>
 
 ```
 ├── AI_Assignments/              
