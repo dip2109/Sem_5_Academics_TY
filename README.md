@@ -2,7 +2,7 @@
 
 This repository contains the practical assignments for the Artificial Intelligence and Deep Learning course. Each assignment demonstrates key AI and deep learning concepts through coding exercises and implementations of various algorithms and models.
 
-*Folder Structure*
+<h1>Folder Structure</h1>
 ```
 ├── AI_Assignments/              
 │   ├── AI_1/                              
@@ -28,7 +28,7 @@ This repository contains the practical assignments for the Artificial Intelligen
 ```
 
 
-*Artificial Intelligence Assignments*
+<h2>Artificial Intelligence Assignments</h2>
 
 - AI_1: Implement DFS, BFS for the 8-puzzle problem.  
 - AI_2: Implement Constraint Satisfaction Problem.  
@@ -42,7 +42,7 @@ This repository contains the practical assignments for the Artificial Intelligen
 
 
 
-*Deep Learning Assignments*
+<h2>Deep Learning Assignments</h2>
 
 - DL_1: Implement Feedforward Neural Networks in Python using Keras and TensorFlow.
 - DL_2: Facial Recognition using OpenCV and Deep Learning for binary classification.
